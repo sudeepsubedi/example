@@ -7,7 +7,8 @@ public class SciCalculator
         /*
         *Start the program by assuming that program should run
         * define all the involved parameters
-         */
+	* added this commit
+        */
 
         boolean shouldRun = true;
         double totalResult = 0.0;
